@@ -1,6 +1,6 @@
 Getting and Cleaning Data - Peer Graded Assignment
 
-This is the peer-graded assignment of the Getting and Cleaning Data Course Project. RStuido version 2022.02.3 is used for this assignment which comprises a tidy data set, a code book and this readme file.
+This is the peer-graded assignment of the Getting and Cleaning Data Course Project. RStuido version 2022.02.3 is used for this assignment which comprises a tidy data set, a code book, the R script and this readme file.
 
 Dataset: Human Activity Recognition Using Smartphones
 
