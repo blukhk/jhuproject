@@ -5,7 +5,7 @@ This is the peer-graded assignment of the Getting and Cleaning Data Course Proje
 Dataset: Human Activity Recognition Using Smartphones
 
 The code in run_analysis.R will perform the following per this assignment's requirments:
-downloand the UCI HAR Dataset, store and unzip the file locally;
+*downloand the UCI HAR Dataset, store and unzip the file locally;
 merge the training and the test sets to create one data set;
 extract only the measurements on the mean and standard deviation for each measurement;
 use descriptive activity names to name the activities in the data set;
